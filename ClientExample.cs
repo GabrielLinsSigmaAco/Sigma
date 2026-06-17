@@ -20,7 +20,7 @@ public class UpdateClient
 
     public static async Task<Manifest> GetManifest()
     {
-        string url = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/manifest.json";
+        string url = "https://raw.githubusercontent.com/GabrielLinsSigmaAco/Sigma/main/manifest.json";
         var json = await client.GetStringAsync(url);
         return JsonSerializer.Deserialize<Manifest>(json);
     }
