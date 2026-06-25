@@ -1,8 +1,0 @@
-{
-  "version": "2.0.0",
-  "files": {
-    "appEnc": "https://github.com/GabrielLinsSigmaAco/Sigma/releases/latest/download/app.enc",
-    "appSig": "https://github.com/GabrielLinsSigmaAco/Sigma/releases/latest/download/app.sig",
-    "icon": "https://github.com/GabrielLinsSigmaAco/Sigma/releases/latest/download/sigma_controle_de_transportes.ico"
-  }
-}
